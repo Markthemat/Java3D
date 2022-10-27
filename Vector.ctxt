@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Vector
+comment0.text=\r\n\ Vectors\r\n\r\n\ Omario\r\n\ 0.01v\r\n
+comment1.params=x\ y\ z
+comment1.target=Vector(double,\ double,\ double)
+comment2.params=v
+comment2.target=Vector\ CrossProject(Vector)
+numComments=3

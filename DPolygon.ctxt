@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DPolygon
+comment1.params=x\ y\ z\ c
+comment1.target=DPolygon(double[],\ double[],\ double[],\ java.awt.Color)
+comment2.params=
+comment2.target=void\ createPolygon()
+comment3.params=
+comment3.target=void\ updatePolygon()
+comment4.params=
+comment4.target=double\ getDistance()
+comment5.params=i
+comment5.target=double\ getDistanceToP(int)
+numComments=6

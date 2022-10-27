@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PolygonObject
+comment1.params=x\ y\ c
+comment1.target=PolygonObject(double[],\ double[],\ java.awt.Color)
+comment2.params=g
+comment2.target=void\ drawPolygon(java.awt.Graphics)
+numComments=3

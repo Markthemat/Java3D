@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Calculator
+comment0.text=\r\n\ Calculate\ posiotn\ for\ 3D\r\n\r\n\ Omario\r\n\ 0.01v\r\n
+comment1.params=ViewFrom\ ViewTo\ x\ y\ z
+comment1.target=double\ CalculatePositionX(double[],\ double[],\ double,\ double,\ double)
+comment2.params=ViewFrom\ ViewTo\ x\ y\ z
+comment2.target=double\ CalculatePositionY(double[],\ double[],\ double,\ double,\ double)
+comment3.params=ViewFrom\ ViewTo\ x\ y\ z
+comment3.target=void\ setStuff(double[],\ double[],\ double,\ double,\ double)
+numComments=4
